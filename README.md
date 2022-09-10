@@ -1,4 +1,3 @@
-[![Build Status](https://travis-ci.org/Arthur236/shopping-list-react.svg?branch=master)](https://travis-ci.org/Arthur236/shopping-list-react)   [![Coverage Status](https://coveralls.io/repos/github/Arthur236/shopping-list-react/badge.svg?branch=master)](https://coveralls.io/github/Arthur236/shopping-list-react?branch=master)   (https://www.codacy.com/app/Arthur236/shopping-list-react?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Arthur236/shopping-list-react&amp;utm_campaign=Badge_Grade)
 
 # Shopping List Application
 
