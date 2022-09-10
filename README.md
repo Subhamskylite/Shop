@@ -28,8 +28,6 @@ The live demo of the application can be found [here.](https://awesome-shoppingli
 
 ### Setting Up
 
-Clone this repository
->git clone https://github.com/Arthur236/shopping-list-react.git
 
 Install dependencies
 >npm install
