@@ -1,7 +1,7 @@
 
 # Shopping List Application
 
-A simple application to help you keep track of your shopping lists. It has been developed using React and consumes the Shopping List Api that can be found [here.](https://twitter-musk.vercel.app/#/)
+A simple application to help you keep track of your shopping lists. It has been developed using React and consumes the Shopping List Api that can be found [here.]https://shoppinglistapi4.docs.apiary.io/
 
 
 
